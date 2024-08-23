@@ -66,7 +66,7 @@ def get_data():
 def get_page():
     s = requests.Session()
 
-    for i in [39, 40]:
+    for i in [40, 41]:
         resp = s.get(url=url + str(i), headers=headers)
         soup = BeautifulSoup(resp.text, 'lxml')
         cards = soup.find_all('article', class_='css-zt7hdf')
