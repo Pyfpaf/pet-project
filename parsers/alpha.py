@@ -4,8 +4,17 @@ import logging
 import os
 import asyncio
 import aiohttp
-from datetime import datetime
 from bs4 import BeautifulSoup
+
+
+logging.basicConfig(
+    level=logging.INFO,
+    handlers=[
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger()
+
 
 get_type = {
     'legkovye': 'Легковые',
@@ -80,23 +89,24 @@ async def get_page_data(session, page, i):
                 }
             )
 
-        print(f'[+] Обработалась страница {page}')
+        logger.info(f'[+] Обработалась страница {page}')
 
 
 async def gather_data():
     async with aiohttp.ClientSession() as session:
 
         for i, v in get_type.items():
-            print(f'Сбор данных в категории: {v}')
+            logger.info(f'Сбор данных в категории: {v}')
 
             response = await session.get(url=url + i, headers=headers)
             soup = BeautifulSoup(await response.text(), 'lxml')
             pages = int(soup.find('ul', class_='pagination_list__ctVZn').find_all('li')[-2].text)
-            print(f'Всего страниц в данной категории: {pages}')
+            logger.info(f'Всего страниц в данной категории: {pages}')
 
             tasks = []
 
             for page in range(1, pages + 1):
+
                 task = asyncio.create_task(get_page_data(session, page, i))
                 await asyncio.sleep(0.05)
 
@@ -106,12 +116,12 @@ async def gather_data():
 
 
 def main():
-    print(f'Старт работы парсинга сайта Альфа Лизинг')
+    logger.info(f'Старт работы парсинга сайта Альфа Лизинг')
     asyncio.run(gather_data())
-    with open(f'{path}/data/alpha_data_{datetime.now().strftime("%Y%m%d")}.json', 'w', encoding='utf-8') as file:
+    with open(f'{path}/data/alpha_data.json', 'w', encoding='utf-8') as file:
         json.dump(cards_item, file, indent=4, ensure_ascii=False)
 
-    with open(f'{path}/data/alpha_data_{datetime.now().strftime("%Y%m%d")}.csv', 'w', encoding='utf-8', newline='') as file:
+    with open(f'{path}/data/alpha_data.csv', 'w', encoding='utf-8', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(
             (
@@ -125,7 +135,7 @@ def main():
         )
 
     for item in cards_item:
-        with open(f'{path}/data/alpha_data_{datetime.now().strftime("%Y%m%d")}.csv', 'a', encoding='utf-8', newline='') as file:
+        with open(f'{path}/data/alpha_data.csv', 'a', encoding='utf-8', newline='') as file:
             writer = csv.writer(file)
             writer.writerow(
                 (
@@ -137,7 +147,7 @@ def main():
                     item['price']
                 )
             )
-    print(f'Окончание работы парсинга сайта Альфа Лизинг')
+    logger.info(f'Окончание работы парсинга сайта Альфа Лизинг')
 
 
 if __name__ == '__main__':

@@ -2,9 +2,19 @@ import requests
 import json
 import csv
 import os
-from datetime import datetime
-from bs4 import BeautifulSoup
+import logging
 import time
+from bs4 import BeautifulSoup
+
+
+logging.basicConfig(
+    level=logging.INFO,
+    handlers=[
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger()
+
 
 url = 'https://auction.autogpbl.ru/auction?page='
 
@@ -18,14 +28,6 @@ cards_item = []
 
 
 def get_data():
-    # s = requests.Session()
-    # resp = s.get(url=url, headers=headers)
-    #
-    # with open('data/index.html', 'w', encoding='utf-8') as file:
-    #     file.write(resp.text)
-
-    # with open('data/index.html', encoding='utf-8') as file:
-    #     src = file.read()
 
     s = requests.Session()
 
@@ -90,24 +92,24 @@ def get_data():
                     }
                 )
 
-            print(f'[+] Обработалась страница {page}')
+            logger.info(f'[+] Обработалась страница {page}')
             time.sleep(1)
 
             page += 1
 
         else:
-            print(f'Страница {page - 1} была последней на сайте')
+            logger.info(f'Страница {page - 1} была последней на сайте')
             break
 
 
 def main():
 
-    print(f'Старт работы парсинга сайта Газпром Автолизинг')
+    logger.info(f'Старт работы парсинга сайта Газпром Автолизинг')
     get_data()
-    with open(f'{path}/data/gpbl_data_{datetime.now().strftime("%Y%m%d")}.json', 'w', encoding='utf-8') as file:
+    with open(f'{path}/data/gpbl_data.json', 'w', encoding='utf-8') as file:
         json.dump(cards_item, file, indent=4, ensure_ascii=False)
 
-    with open(f'{path}/data/gpbl_data_{datetime.now().strftime("%Y%m%d")}.csv', 'w', encoding='utf-8', newline='') as file:
+    with open(f'{path}/data/gpbl_data.csv', 'w', encoding='utf-8', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(
             (
@@ -121,7 +123,7 @@ def main():
         )
 
     for item in cards_item:
-        with open(f'{path}/data/gpbl_data_{datetime.now().strftime("%Y%m%d")}.csv', 'a', encoding='utf-8', newline='') as file:
+        with open(f'{path}/data/gpbl_data.csv', 'a', encoding='utf-8', newline='') as file:
             writer = csv.writer(file)
             writer.writerow(
                 (
@@ -133,7 +135,7 @@ def main():
                     item['price']
                 )
             )
-    print(f'Окончание работы парсинга сайта Газпром Автолизинг')
+    logger.info(f'Окончание работы парсинга сайта Газпром Автолизинг')
 
 
 if __name__ == '__main__':

@@ -1,10 +1,18 @@
 import csv
 import json
-import requests
+import logging
 import os
 import asyncio
 import aiohttp
-from datetime import datetime
+
+
+logging.basicConfig(
+    level=logging.INFO,
+    handlers=[
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger()
 
 cards_item = []
 
@@ -69,7 +77,7 @@ async def get_page_data(session, page, i):
                     'price': price
                 }
             )
-        print(f'[+] Обработалась страница {page}')
+        logger.info(f'[+] Обработалась страница {page}')
 
 
 async def gather_data():
@@ -77,13 +85,13 @@ async def gather_data():
     async with aiohttp.ClientSession() as session:
 
         for i in get_type:
-            print(f'Сбор данных в категории: {i}')
+            logger.info(f'Сбор данных в категории: {i}')
 
             response = await session.get(url=i + '1', headers=headers)
             data = await response.json()
 
             pages = data['pager']['lastPage']
-            print(f'Всего страниц в данной категории: {pages}')
+            logger.info(f'Всего страниц в данной категории: {pages}')
 
             tasks = []
 
@@ -97,12 +105,12 @@ async def gather_data():
 
 def main():
 
-    print(f'Старт работы парсинга сайта Европлан')
+    logger.info(f'Старт работы парсинга сайта Европлан')
     asyncio.run(gather_data())
-    with open(f'{path}/data/europlan_data_{datetime.now().strftime("%Y%m%d")}.json', 'w', encoding='utf-8') as file:
+    with open(f'{path}/data/europlan_data.json', 'w', encoding='utf-8') as file:
         json.dump(cards_item, file, indent=4, ensure_ascii=False)
 
-    with open(f'{path}/data/europlan_data_{datetime.now().strftime("%Y%m%d")}.csv', 'w', encoding='utf-8', newline='') as file:
+    with open(f'{path}/data/europlan_data.csv', 'w', encoding='utf-8', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(
             (
@@ -116,7 +124,7 @@ def main():
         )
 
     for item in cards_item:
-        with open(f'{path}/data/europlan_data_{datetime.now().strftime("%Y%m%d")}.csv', 'a', encoding='utf-8', newline='') as file:
+        with open(f'{path}/data/europlan_data.csv', 'a', encoding='utf-8', newline='') as file:
             writer = csv.writer(file)
             writer.writerow(
                 (
@@ -128,7 +136,7 @@ def main():
                     item['price']
                 )
             )
-    print(f'Окончание работы парсинга сайта Европлан')
+    logger.info(f'Окончание работы парсинга сайта Европлан')
 
 
 if __name__ == '__main__':
