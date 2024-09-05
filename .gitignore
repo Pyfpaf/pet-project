@@ -1,2 +1,4 @@
 .idea/
 parsers/data/
+data/
+.gitignore
