@@ -11,8 +11,8 @@ os.environ['PROJECT_PATH'] = path
 # Добавим путь к коду проекта в $PATH, чтобы импортировать функции
 sys.path.insert(0, path)
 
-import pipeline
-import predict
+from modules import pipeline, predict
+
 # <YOUR_IMPORTS>
 
 args = {
