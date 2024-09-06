@@ -36,22 +36,17 @@ def remove_outliers(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def create_features(df: pd.DataFrame) -> pd.DataFrame:
-
     df = df.copy()
     df.model = df.model.apply(lambda x: x[:4])
-    df['age'] = [datetime.now().year] - df['year'] + 1
+    df['age'] = 2024 - df['year'] + 1
     df.drop('year', axis=1, inplace=True)
     return df
 
 
 def pipeline() -> None:
-
     df_1 = pd.read_csv(f'{path}/parsers/data/alpha_data.csv')
     df_2 = pd.read_csv(f'{path}/parsers/data/europlan_data.csv')
     df_3 = pd.read_csv(f'{path}/parsers/data/gpbl_data.csv')
-    # df_1 = pd.read_csv(f'../parsers/data/alpha_data.csv')
-    # df_2 = pd.read_csv(f'../parsers/data/europlan_data.csv')
-    # df_3 = pd.read_csv(f'../parsers/data/gpbl_data.csv')
     df = pd.concat([df_1, df_2, df_3], ignore_index=True)
 
     X = df.drop('price', axis=1)
@@ -93,7 +88,7 @@ def pipeline() -> None:
 
         pipe = Pipeline([
             ('preprocessor', preprocessor),
-            ('classifier', model)
+            ('regressor', model)
         ])
 
         score = cross_val_score(pipe, X, y, cv=5, scoring=make_scorer(mean_absolute_error), n_jobs=-1)
@@ -103,7 +98,7 @@ def pipeline() -> None:
             best_score = score.mean()
             best_pipe = pipe
 
-    logging.info(f'best model: {type(best_pipe.named_steps["classifier"]).__name__}, MAE: {best_score:.4f}')
+    logging.info(f'best model: {type(best_pipe.named_steps["regressor"]).__name__}, MAE: {best_score:.4f}')
     # print(f'best model: {type(best_pipe.named_steps["classifier"]).__name__}, MAE: {best_score:.4f}')
 
     best_pipe.fit(X, y)
@@ -118,7 +113,7 @@ def pipeline() -> None:
                 'author': 'Alex Polyakov',
                 'version': 1,
                 'date': datetime.now(),
-                'type': type(best_pipe.named_steps["classifier"]).__name__,
+                'type': type(best_pipe.named_steps["regressor"]).__name__,
                 'MAE': best_score
             }
         }, file)
@@ -126,6 +121,9 @@ def pipeline() -> None:
     logging.info(f'Model is saved as {model_filename}')
 
 
+def main() -> None:
+    pipeline()
+
 
 if __name__ == '__main__':
-    pipeline()
+    main()
