@@ -115,7 +115,7 @@ async def gather_data():
             await asyncio.gather(*tasks)
 
 
-def main():
+def main_alpha():
     logger.info(f'Старт работы парсинга сайта Альфа Лизинг')
     asyncio.run(gather_data())
     with open(f'{path}/data/alpha_data.json', 'w', encoding='utf-8') as file:
@@ -151,4 +151,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    main_alpha()

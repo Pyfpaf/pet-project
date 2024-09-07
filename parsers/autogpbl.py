@@ -102,7 +102,7 @@ def get_data():
             break
 
 
-def main():
+def main_gpbl():
 
     logger.info(f'Старт работы парсинга сайта Газпром Автолизинг')
     get_data()
@@ -139,4 +139,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    main_gpbl()

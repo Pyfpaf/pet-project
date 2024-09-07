@@ -103,7 +103,8 @@ async def gather_data():
 
             await asyncio.gather(*tasks)
 
-def main():
+
+def main_europlan():
 
     logger.info(f'Старт работы парсинга сайта Европлан')
     asyncio.run(gather_data())
@@ -140,4 +141,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    main_europlan()

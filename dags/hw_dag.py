@@ -5,19 +5,22 @@ import sys
 from airflow.models import DAG
 from airflow.operators.python import PythonOperator
 
-path = os.path.expanduser('~/airflow_hw')
+
+path = '/opt/airflow'
 # Добавим путь к коду проекта в переменную окружения, чтобы он был доступен python-процессу
 os.environ['PROJECT_PATH'] = path
 # Добавим путь к коду проекта в $PATH, чтобы импортировать функции
 sys.path.insert(0, path)
 
-from modules import pipeline, predict
+from modules.pipeline import pipeline
+from parsers.alpha import main_alpha
+from parsers.autogpbl import main_gpbl
+from parsers.europlan import main_europlan
 
-# <YOUR_IMPORTS>
 
 args = {
     'owner': 'airflow',
-    'start_date': dt.datetime(2022, 6, 10),
+    'start_date': dt.datetime(2024, 9, 1),
     'retries': 1,
     'retry_delay': dt.timedelta(minutes=1),
     'depends_on_past': False,
@@ -25,9 +28,26 @@ args = {
 
 with DAG(
         dag_id='car_price_prediction',
-        schedule_interval="00 15 * * *",
+        schedule_interval="00 00 * * 0",
         default_args=args,
 ) as dag:
+    alpha = PythonOperator(
+        task_id='alpha',
+        python_callable=main_alpha,
+        dag=dag
+    )
+
+    europlan = PythonOperator(
+        task_id='europlan',
+        python_callable=main_europlan,
+        dag=dag
+    )
+
+    autogpbl = PythonOperator(
+        task_id='predict',
+        python_callable=main_gpbl,
+        dag=dag
+    )
 
     pipeline = PythonOperator(
         task_id='pipeline',
@@ -35,11 +55,5 @@ with DAG(
         dag=dag
     )
 
-    predict = PythonOperator(
-        task_id='predict',
-        python_callable=predict,
-        dag=dag
-    )
-
-    pipeline >> predict
+    alpha >> europlan >> autogpbl >> pipeline
 

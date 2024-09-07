@@ -18,7 +18,7 @@ from sklearn.metrics import make_scorer, mean_absolute_error
 # Укажем путь к файлам проекта:
 # -> $PROJECT_PATH при запуске в Airflow
 # -> иначе - текущая директория при локальном запуске
-path = os.environ.get('PROJECT_PATH', '..')
+path = os.environ.get('PROJECT_PATH', '.')
 
 
 def remove_outliers(df: pd.DataFrame) -> pd.DataFrame:
@@ -121,9 +121,9 @@ def pipeline() -> None:
     logging.info(f'Model is saved as {model_filename}')
 
 
-def main() -> None:
-    pipeline()
+# def main() -> None:
+#     pipeline()
 
 
 if __name__ == '__main__':
-    main()
+    pipeline()
