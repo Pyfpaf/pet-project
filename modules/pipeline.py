@@ -44,9 +44,9 @@ def create_features(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def pipeline() -> None:
-    df_1 = pd.read_csv(f'{path}/parsers/data/alpha_data.csv')
-    df_2 = pd.read_csv(f'{path}/parsers/data/europlan_data.csv')
-    df_3 = pd.read_csv(f'{path}/parsers/data/gpbl_data.csv')
+    df_1 = pd.read_csv(f'{path}/data/alpha_data.csv')
+    df_2 = pd.read_csv(f'{path}/data/europlan_data.csv')
+    df_3 = pd.read_csv(f'{path}/data/gpbl_data.csv')
     df = pd.concat([df_1, df_2, df_3], ignore_index=True)
 
     X = df.drop('price', axis=1)

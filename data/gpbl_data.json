@@ -1,0 +1,3050 @@
+[
+    {
+        "factory": "камаз",
+        "model": "65802",
+        "year": 2021,
+        "city": "ханты-мансийский",
+        "mileage": "156988",
+        "price": 5310000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "саха",
+        "mileage": null,
+        "price": 4340000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": "100000",
+        "price": 5790000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "ростовская",
+        "mileage": null,
+        "price": 5720000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "тюменская",
+        "mileage": null,
+        "price": 5570000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "ханты-мансийский",
+        "mileage": "99454",
+        "price": 5810000
+    },
+    {
+        "factory": "маз",
+        "model": "6516",
+        "year": 2021,
+        "city": "нижегородская",
+        "mileage": null,
+        "price": 2470000
+    },
+    {
+        "factory": "камаз",
+        "model": "65801",
+        "year": 2021,
+        "city": "москва",
+        "mileage": "126968",
+        "price": 6140000
+    },
+    {
+        "factory": "howo",
+        "model": "t5g",
+        "year": 2022,
+        "city": "нижегородская",
+        "mileage": "150144",
+        "price": 6090000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "новосибирская",
+        "mileage": null,
+        "price": 5970000
+    },
+    {
+        "factory": "sitrak",
+        "model": "c7h",
+        "year": 2022,
+        "city": "ямало-ненецкий",
+        "mileage": "33093",
+        "price": 7040000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "60473",
+        "price": 5620000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "новосибирская",
+        "mileage": "19287",
+        "price": 6240000
+    },
+    {
+        "factory": "foton",
+        "model": "auman",
+        "year": 2023,
+        "city": "хабаровский",
+        "mileage": "44225",
+        "price": 6050000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "новосибирская",
+        "mileage": "23894",
+        "price": 5050000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "иркутская",
+        "mileage": "95717",
+        "price": 4620000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "113866",
+        "price": 5570000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2023,
+        "city": "иркутская",
+        "mileage": "1",
+        "price": 8220000
+    },
+    {
+        "factory": "hongyan",
+        "model": "908",
+        "year": 2022,
+        "city": "приморский",
+        "mileage": "25117",
+        "price": 5460000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "красноярский",
+        "mileage": "43336",
+        "price": 5720000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "москва",
+        "mileage": null,
+        "price": 4980000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2020,
+        "city": "москва",
+        "mileage": null,
+        "price": 2690000
+    },
+    {
+        "factory": "маз",
+        "model": "6516",
+        "year": 2019,
+        "city": "архангельская",
+        "mileage": "143442",
+        "price": 3850000
+    },
+    {
+        "factory": "sany",
+        "model": "syz320",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "51316",
+        "price": 6040000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2023,
+        "city": "татарстан",
+        "mileage": "104070",
+        "price": 7080000
+    },
+    {
+        "factory": "маз",
+        "model": "4381",
+        "year": 2021,
+        "city": "иркутская",
+        "mileage": "46925",
+        "price": 3160000
+    },
+    {
+        "factory": "маз",
+        "model": "4381",
+        "year": 2021,
+        "city": "иркутская",
+        "mileage": "46925",
+        "price": 3160000
+    },
+    {
+        "factory": "howo",
+        "model": "t5g",
+        "year": 2021,
+        "city": "амурская",
+        "mileage": null,
+        "price": 6170000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "воронежская",
+        "mileage": "92245",
+        "price": 4590000
+    },
+    {
+        "factory": "omoda",
+        "model": "s5",
+        "year": 2023,
+        "city": "адыгея",
+        "mileage": "6349",
+        "price": 1690000
+    },
+    {
+        "factory": "sollers",
+        "model": "argo",
+        "year": 2023,
+        "city": "свердловская",
+        "mileage": null,
+        "price": 2470000
+    },
+    {
+        "factory": "sitrak",
+        "model": "c7h",
+        "year": 2023,
+        "city": "челябинская",
+        "mileage": "74408",
+        "price": 7010000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "воронежская",
+        "mileage": "86972",
+        "price": 4820000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2018,
+        "city": "башкортостан",
+        "mileage": null,
+        "price": 2410000
+    },
+    {
+        "factory": "changan",
+        "model": "uni-v",
+        "year": 2023,
+        "city": "оренбургская",
+        "mileage": "10154",
+        "price": 2380000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2020,
+        "city": "москва",
+        "mileage": null,
+        "price": 2420000
+    },
+    {
+        "factory": "sitrak",
+        "model": "c7h",
+        "year": 2022,
+        "city": "красноярский",
+        "mileage": "112203",
+        "price": 6020000
+    },
+    {
+        "factory": "faw",
+        "model": "ca",
+        "year": 2022,
+        "city": "архангельская",
+        "mileage": "103189",
+        "price": 3930000
+    },
+    {
+        "factory": "камаз",
+        "model": "65201",
+        "year": 2021,
+        "city": "москва",
+        "mileage": "202707",
+        "price": 3300000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "самарская",
+        "mileage": null,
+        "price": 7610000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": null,
+        "price": 4530000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": null,
+        "price": 4530000
+    },
+    {
+        "factory": "камаз",
+        "model": "6520",
+        "year": 2022,
+        "city": "алтайский",
+        "mileage": "8515",
+        "price": 4190000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "ставропольский",
+        "mileage": "23905",
+        "price": 5750000
+    },
+    {
+        "factory": "geely",
+        "model": "coolray",
+        "year": 2023,
+        "city": "москва",
+        "mileage": "23511",
+        "price": 2160000
+    },
+    {
+        "factory": "маз",
+        "model": "5440",
+        "year": 2014,
+        "city": "оренбургская",
+        "mileage": null,
+        "price": 2170000
+    },
+    {
+        "factory": "sitrak",
+        "model": "c7h",
+        "year": 2023,
+        "city": "мордовия",
+        "mileage": "23891",
+        "price": 9490000
+    },
+    {
+        "factory": "камаз",
+        "model": "65222",
+        "year": 2014,
+        "city": "ямало-ненецкий",
+        "mileage": null,
+        "price": 2070000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2017,
+        "city": "санкт-петербург",
+        "mileage": "1",
+        "price": 2730000
+    },
+    {
+        "factory": "камаз",
+        "model": "6520",
+        "year": 2022,
+        "city": "московская",
+        "mileage": null,
+        "price": 2730000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2018,
+        "city": "москва",
+        "mileage": null,
+        "price": 1740000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "саха",
+        "mileage": null,
+        "price": 4340000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "112717",
+        "price": 5720000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "татарстан",
+        "mileage": "73944",
+        "price": 6360000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "воронежская",
+        "mileage": null,
+        "price": 6000000
+    },
+    {
+        "factory": "камаз",
+        "model": "65801",
+        "year": 2021,
+        "city": "санкт-петербург",
+        "mileage": null,
+        "price": 6540000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "мурманская",
+        "mileage": "59258",
+        "price": 5770000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "202090",
+        "price": 4150000
+    },
+    {
+        "factory": "ural",
+        "model": "44202",
+        "year": 2021,
+        "city": "ханты-мансийский",
+        "mileage": "55175",
+        "price": 5540000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "свердловская",
+        "mileage": "161431",
+        "price": 6040000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2020,
+        "city": "москва",
+        "mileage": null,
+        "price": 3050000
+    },
+    {
+        "factory": "sollers",
+        "model": "argo",
+        "year": 2023,
+        "city": "свердловская",
+        "mileage": null,
+        "price": 2240000
+    },
+    {
+        "factory": "hongyan",
+        "model": "cq",
+        "year": 2023,
+        "city": "ростовская",
+        "mileage": "1693",
+        "price": 7690000
+    },
+    {
+        "factory": "камаз",
+        "model": "6520",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": "57807",
+        "price": 4380000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "свердловская",
+        "mileage": "85485",
+        "price": 4990000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": null,
+        "city": "санкт-петербург",
+        "mileage": "1",
+        "price": 3970000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "нижегородская",
+        "mileage": "156211",
+        "price": 5420000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "самарская",
+        "mileage": "27504",
+        "price": 6900000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "ростовская",
+        "mileage": null,
+        "price": 4710000
+    },
+    {
+        "factory": "hongyan",
+        "model": "908",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "62785",
+        "price": 5430000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": "100000",
+        "price": 5060000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "татарстан",
+        "mileage": "146548",
+        "price": 4570000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2023,
+        "city": "москва",
+        "mileage": "66312",
+        "price": 6460000
+    },
+    {
+        "factory": "daf",
+        "model": "xf",
+        "year": 2018,
+        "city": "приморский",
+        "mileage": "742249",
+        "price": 8020000
+    },
+    {
+        "factory": "howo",
+        "model": "t5g",
+        "year": 2022,
+        "city": "иркутская",
+        "mileage": "71828",
+        "price": 6980000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2017,
+        "city": "москва",
+        "mileage": null,
+        "price": 2820000
+    },
+    {
+        "factory": "hongyan908",
+        "model": "8x4",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "15568",
+        "price": 6880000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "90996",
+        "price": 8570000
+    },
+    {
+        "factory": "faw",
+        "model": "ca",
+        "year": null,
+        "city": "удмуртская",
+        "mileage": "52497",
+        "price": 6380000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "воронежская",
+        "mileage": "122572",
+        "price": 4760000
+    },
+    {
+        "factory": "нефаз",
+        "model": "9509-30",
+        "year": 2020,
+        "city": "краснодарский",
+        "mileage": "1",
+        "price": 1080000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "87307",
+        "price": 5280000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "31763",
+        "price": 5610000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "46910",
+        "price": 6110000
+    },
+    {
+        "factory": "gaz",
+        "model": "valdai",
+        "year": 2021,
+        "city": "саха",
+        "mileage": "82634",
+        "price": 2850000
+    },
+    {
+        "factory": "howo",
+        "model": "t5g",
+        "year": 2023,
+        "city": "пермский",
+        "mileage": "15963",
+        "price": 7460000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2023,
+        "city": "пермский",
+        "mileage": "17067",
+        "price": 7370000
+    },
+    {
+        "factory": "lexus",
+        "model": "ls",
+        "year": 2018,
+        "city": "ростовская",
+        "mileage": "1",
+        "price": 6080000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "ростовская",
+        "mileage": "64298",
+        "price": 7890000
+    },
+    {
+        "factory": "камаз",
+        "model": "6580",
+        "year": null,
+        "city": "красноярский",
+        "mileage": "97140",
+        "price": 4960000
+    },
+    {
+        "factory": "ваз",
+        "model": "niva",
+        "year": 2023,
+        "city": "башкортостан",
+        "mileage": "1",
+        "price": 1120000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "забайкальский",
+        "mileage": "36361",
+        "price": 4930000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "волгоградская",
+        "mileage": "126124",
+        "price": 8230000
+    },
+    {
+        "factory": "камаз",
+        "model": "65206",
+        "year": 2020,
+        "city": "омская",
+        "mileage": "280616",
+        "price": 5810000
+    },
+    {
+        "factory": "gaz",
+        "model": "gazon",
+        "year": 2019,
+        "city": "амурская",
+        "mileage": "1",
+        "price": 2130000
+    },
+    {
+        "factory": "камаз",
+        "model": "65221",
+        "year": 2022,
+        "city": "ханты-мансийский",
+        "mileage": "1",
+        "price": 6840000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "забайкальский",
+        "mileage": null,
+        "price": 6640000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "156996",
+        "price": 5050000
+    },
+    {
+        "factory": "gaz",
+        "model": "gazon",
+        "year": 2021,
+        "city": "ямало-ненецкий",
+        "mileage": null,
+        "price": 5970000
+    },
+    {
+        "factory": "jac",
+        "model": "n350",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "45990",
+        "price": 4630000
+    },
+    {
+        "factory": "gaz",
+        "model": "sobol",
+        "year": 2022,
+        "city": "амурская",
+        "mileage": "33149",
+        "price": 1690000
+    },
+    {
+        "factory": "hongyan",
+        "model": "908",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "30689",
+        "price": 6850000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "135778",
+        "price": 5580000
+    },
+    {
+        "factory": "jac",
+        "model": "n350",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "49858",
+        "price": 5010000
+    },
+    {
+        "factory": "jac",
+        "model": "n350",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "45990",
+        "price": 4630000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "татарстан",
+        "mileage": "34427",
+        "price": 6390000
+    },
+    {
+        "factory": "uaz",
+        "model": "3909",
+        "year": 2021,
+        "city": "амурская",
+        "mileage": "81752",
+        "price": 680000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2020,
+        "city": "москва",
+        "mileage": null,
+        "price": 2440000
+    },
+    {
+        "factory": "scania",
+        "model": "g",
+        "year": 2017,
+        "city": "свердловская",
+        "mileage": "479132",
+        "price": 7360000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "нижегородская",
+        "mileage": null,
+        "price": 4880000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "56196",
+        "price": 4420000
+    },
+    {
+        "factory": "volvo",
+        "model": "fmx",
+        "year": 2020,
+        "city": "хакасия",
+        "mileage": "519145",
+        "price": 11180000
+    },
+    {
+        "factory": "jac",
+        "model": "n350",
+        "year": 2022,
+        "city": "новосибирская",
+        "mileage": "97609",
+        "price": 3800000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "ханты-мансийский",
+        "mileage": "73935",
+        "price": 5950000
+    },
+    {
+        "factory": "камаз",
+        "model": "6520",
+        "year": 2022,
+        "city": "воронежская",
+        "mileage": "13537",
+        "price": 5320000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "ханты-мансийский",
+        "mileage": "49672",
+        "price": 6610000
+    },
+    {
+        "factory": "камаз",
+        "model": "6520",
+        "year": 2022,
+        "city": "воронежская",
+        "mileage": "12438",
+        "price": 5200000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "ростовская",
+        "mileage": "1",
+        "price": 4900000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2021,
+        "city": "санкт-петербург",
+        "mileage": "113407",
+        "price": 4040000
+    },
+    {
+        "factory": "камаз",
+        "model": "65222",
+        "year": 2023,
+        "city": "мурманская",
+        "mileage": "24189",
+        "price": 6970000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2020,
+        "city": "москва",
+        "mileage": null,
+        "price": 3390000
+    },
+    {
+        "factory": "volvo",
+        "model": "fmx",
+        "year": 2020,
+        "city": "хакасия",
+        "mileage": "430528",
+        "price": 11210000
+    },
+    {
+        "factory": "jac",
+        "model": "n350",
+        "year": 2022,
+        "city": "новосибирская",
+        "mileage": "87557",
+        "price": 4020000
+    },
+    {
+        "factory": "howo",
+        "model": "t5g",
+        "year": 2021,
+        "city": "амурская",
+        "mileage": null,
+        "price": 4660000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "хабаровский",
+        "mileage": "38439",
+        "price": 5340000
+    },
+    {
+        "factory": "sitrak",
+        "model": "c7h",
+        "year": 2022,
+        "city": "нижегородская",
+        "mileage": "155218",
+        "price": 8860000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2021,
+        "city": "москва",
+        "mileage": null,
+        "price": 3210000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2021,
+        "city": "московская",
+        "mileage": "420539",
+        "price": 4650000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2017,
+        "city": "башкортостан",
+        "mileage": "1",
+        "price": 2480000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": "116813",
+        "price": 5140000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "забайкальский",
+        "mileage": "19654",
+        "price": 5560000
+    },
+    {
+        "factory": "mercedes-benz",
+        "model": "s-класс",
+        "year": 2018,
+        "city": "кемеровская",
+        "mileage": "1",
+        "price": 2000000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "забайкальский",
+        "mileage": "19654",
+        "price": 5560000
+    },
+    {
+        "factory": "exeed",
+        "model": "vx",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": "68891",
+        "price": 3240000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "воронежская",
+        "mileage": "129250",
+        "price": 4670000
+    },
+    {
+        "factory": "sitrak",
+        "model": "c7h",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "78107",
+        "price": 8290000
+    },
+    {
+        "factory": "sitrak",
+        "model": "c7h",
+        "year": 2023,
+        "city": "московская",
+        "mileage": "99156",
+        "price": 7580000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "ставропольский",
+        "mileage": "118005",
+        "price": 6240000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "челябинская",
+        "mileage": "180369",
+        "price": 6360000
+    },
+    {
+        "factory": "changan",
+        "model": "alsvin",
+        "year": 2023,
+        "city": "москва",
+        "mileage": "17111",
+        "price": 1340000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2021,
+        "city": "московская",
+        "mileage": "340200",
+        "price": 4940000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "воронежская",
+        "mileage": null,
+        "price": 3570000
+    },
+    {
+        "factory": "dayun",
+        "model": "cgc",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "207426",
+        "price": 6230000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "113040",
+        "price": 6100000
+    },
+    {
+        "factory": "uaz",
+        "model": "3909",
+        "year": 2015,
+        "city": "москва",
+        "mileage": "99639",
+        "price": 450000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "64945",
+        "price": 5810000
+    },
+    {
+        "factory": "foton",
+        "model": "aumark",
+        "year": 2023,
+        "city": "нижегородская",
+        "mileage": "55113",
+        "price": 5560000
+    },
+    {
+        "factory": "камаз",
+        "model": "53504",
+        "year": 2023,
+        "city": "самарская",
+        "mileage": "26594",
+        "price": 10700000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2020,
+        "city": "москва",
+        "mileage": null,
+        "price": 2330000
+    },
+    {
+        "factory": "sx*",
+        "model": "8x4",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "93601",
+        "price": 6260000
+    },
+    {
+        "factory": "ural",
+        "model": "44202",
+        "year": 2021,
+        "city": "москва",
+        "mileage": "45180",
+        "price": 5730000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "забайкальский",
+        "mileage": null,
+        "price": 5500000
+    },
+    {
+        "factory": "камаз",
+        "model": "6520",
+        "year": 2022,
+        "city": "ставропольский",
+        "mileage": "60130",
+        "price": 4340000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "бурятия",
+        "mileage": "44960",
+        "price": 6440000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "красноярский",
+        "mileage": "93997",
+        "price": 6860000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "ханты-мансийский",
+        "mileage": "69300",
+        "price": 6370000
+    },
+    {
+        "factory": "камаз",
+        "model": "м1945",
+        "year": 2022,
+        "city": "волгоградская",
+        "mileage": "169307",
+        "price": 6420000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "адыгея",
+        "mileage": "57905",
+        "price": 5630000
+    },
+    {
+        "factory": "man",
+        "model": "tgx",
+        "year": 2017,
+        "city": "московская",
+        "mileage": "95313",
+        "price": 5740000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2016,
+        "city": "забайкальский",
+        "mileage": null,
+        "price": 2660000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "149357",
+        "price": 4880000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "45500",
+        "price": 4060000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "чувашская",
+        "mileage": null,
+        "price": 4200000
+    },
+    {
+        "factory": "jac",
+        "model": "n350",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "38529",
+        "price": 5040000
+    },
+    {
+        "factory": "jac",
+        "model": "n350",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "53613",
+        "price": 4390000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "149357",
+        "price": 4880000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": "127247",
+        "price": 5260000
+    },
+    {
+        "factory": "lexus",
+        "model": "rx",
+        "year": 2020,
+        "city": "чувашская",
+        "mileage": "97446",
+        "price": 6830000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "ханты-мансийский",
+        "mileage": null,
+        "price": 4300000
+    },
+    {
+        "factory": "ural",
+        "model": "44202",
+        "year": 2021,
+        "city": "ямало-ненецкий",
+        "mileage": "22800",
+        "price": 4710000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "142353",
+        "price": 6210000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "159902",
+        "price": 4630000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "9077",
+        "price": 4030000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "2217",
+        "price": 4070000
+    },
+    {
+        "factory": "камаз",
+        "model": "65801",
+        "year": 2021,
+        "city": "татарстан",
+        "mileage": "76592",
+        "price": 6630000
+    },
+    {
+        "factory": "камаз",
+        "model": "65801",
+        "year": 2021,
+        "city": "татарстан",
+        "mileage": "77265",
+        "price": 7970000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2018,
+        "city": "ростовская",
+        "mileage": "912236",
+        "price": 3370000
+    },
+    {
+        "factory": "geely",
+        "model": "coolray",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": "53121",
+        "price": 1860000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "79224",
+        "price": 6470000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "красноярский",
+        "mileage": "27398",
+        "price": 4450000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "москва",
+        "mileage": null,
+        "price": 5030000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "ростовская",
+        "mileage": "96955",
+        "price": 5840000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "мордовия",
+        "mileage": "90861",
+        "price": 8830000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2021,
+        "city": "кемеровская",
+        "mileage": "73684",
+        "price": 4900000
+    },
+    {
+        "factory": "камаз",
+        "model": "6520",
+        "year": 2017,
+        "city": "татарстан",
+        "mileage": null,
+        "price": 2640000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "ханты-мансийский",
+        "mileage": "102882",
+        "price": 5810000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "71693",
+        "price": 4210000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "кемеровская",
+        "mileage": "113038",
+        "price": 6810000
+    },
+    {
+        "factory": "ваз",
+        "model": "largus",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "7488",
+        "price": 1910000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "ставропольский",
+        "mileage": "96816",
+        "price": 6320000
+    },
+    {
+        "factory": "sitrak",
+        "model": "c7h",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "235059",
+        "price": 6050000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "иркутская",
+        "mileage": "63710",
+        "price": 5920000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "самарская",
+        "mileage": null,
+        "price": 6120000
+    },
+    {
+        "factory": "hongyan",
+        "model": "908",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": "71471",
+        "price": 5280000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2017,
+        "city": "москва",
+        "mileage": "769726",
+        "price": 2910000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "7092",
+        "price": 6990000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "ростовская",
+        "mileage": null,
+        "price": 6900000
+    },
+    {
+        "factory": "sitrak",
+        "model": "c7h",
+        "year": 2022,
+        "city": "нижегородская",
+        "mileage": "65752",
+        "price": 8340000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "саха",
+        "mileage": null,
+        "price": 4410000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "саха",
+        "mileage": "37807",
+        "price": 4410000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2020,
+        "city": "москва",
+        "mileage": null,
+        "price": 3250000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "84135",
+        "price": 4280000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "саха",
+        "mileage": "69998",
+        "price": 4530000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "саха",
+        "mileage": "62024",
+        "price": 4260000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "воронежская",
+        "mileage": "50114",
+        "price": 4930000
+    },
+    {
+        "factory": "камаз",
+        "model": "65801",
+        "year": 2021,
+        "city": "ростовская",
+        "mileage": "204345",
+        "price": 4720000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2020,
+        "city": "москва",
+        "mileage": null,
+        "price": 2910000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "москва",
+        "mileage": "24788",
+        "price": 6280000
+    },
+    {
+        "factory": "porsche",
+        "model": "cayenne",
+        "year": 2023,
+        "city": "москва",
+        "mileage": "6126",
+        "price": 13708000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2020,
+        "city": "москва",
+        "mileage": null,
+        "price": 2970000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2017,
+        "city": "тюменская",
+        "mileage": "603362",
+        "price": 3080000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "38544",
+        "price": 4620000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "саха",
+        "mileage": "71718",
+        "price": 4440000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "ростовская",
+        "mileage": "1",
+        "price": 4910000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "челябинская",
+        "mileage": "93911",
+        "price": 5140000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "саха",
+        "mileage": "20683",
+        "price": 4360000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "москва",
+        "mileage": "13377",
+        "price": 6400000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "52536",
+        "price": 6210000
+    },
+    {
+        "factory": "камаз",
+        "model": "65115",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "20235",
+        "price": 5590000
+    },
+    {
+        "factory": "faw",
+        "model": "ca",
+        "year": 2022,
+        "city": "ханты-мансийский",
+        "mileage": null,
+        "price": 5710000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "саха",
+        "mileage": "26606",
+        "price": 4400000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2023,
+        "city": "ямало-ненецкий",
+        "mileage": "70323",
+        "price": 8090000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": "1",
+        "price": 6030000
+    },
+    {
+        "factory": "камаз",
+        "model": "м1945",
+        "year": 2023,
+        "city": "москва",
+        "mileage": "37203",
+        "price": 6900000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "53418",
+        "price": 6260000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2017,
+        "city": "москва",
+        "mileage": null,
+        "price": 3150000
+    },
+    {
+        "factory": "камаз",
+        "model": "65206",
+        "year": 2018,
+        "city": "новосибирская",
+        "mileage": "518604",
+        "price": 3850000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2021,
+        "city": "свердловская",
+        "mileage": "227496",
+        "price": 4340000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "самарская",
+        "mileage": null,
+        "price": 6170000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2019,
+        "city": "ханты-мансийский",
+        "mileage": "310475",
+        "price": 3920000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "самарская",
+        "mileage": null,
+        "price": 6170000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "свердловская",
+        "mileage": "1",
+        "price": 5770000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "мордовия",
+        "mileage": "89486",
+        "price": 7230000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "татарстан",
+        "mileage": "42852",
+        "price": 6130000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "нижегородская",
+        "mileage": "16495",
+        "price": 6320000
+    },
+    {
+        "factory": "jac",
+        "model": "n350",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "52675",
+        "price": 4660000
+    },
+    {
+        "factory": "камаз",
+        "model": "65802",
+        "year": 2021,
+        "city": "татарстан",
+        "mileage": "107406",
+        "price": 5530000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "омская",
+        "mileage": "54",
+        "price": 6110000
+    },
+    {
+        "factory": "sitrak",
+        "model": "c7h",
+        "year": 2023,
+        "city": "красноярский",
+        "mileage": "113144",
+        "price": 6150000
+    },
+    {
+        "factory": "jac",
+        "model": "t8",
+        "year": 2023,
+        "city": "забайкальский",
+        "mileage": "28251",
+        "price": 2790000
+    },
+    {
+        "factory": "jac",
+        "model": "n350",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "75375",
+        "price": 3990000
+    },
+    {
+        "factory": "exeed",
+        "model": "lx",
+        "year": 2023,
+        "city": "краснодарский",
+        "mileage": "19536",
+        "price": 2310000
+    },
+    {
+        "factory": "hongqi",
+        "model": "e-hs9",
+        "year": 2021,
+        "city": "санкт-петербург",
+        "mileage": "14917",
+        "price": 5460000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx42584w324c",
+        "year": 2022,
+        "city": "тюменская",
+        "mileage": "66264",
+        "price": 5610000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "ямало-ненецкий",
+        "mileage": "19528",
+        "price": 5540000
+    },
+    {
+        "factory": "kaiyi",
+        "model": "e5",
+        "year": 2023,
+        "city": "краснодарский",
+        "mileage": "3613",
+        "price": 1450000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "ростовская",
+        "mileage": "172406",
+        "price": 4210000
+    },
+    {
+        "factory": "exeed",
+        "model": "rx",
+        "year": 2023,
+        "city": "москва",
+        "mileage": "15518",
+        "price": 3530000
+    },
+    {
+        "factory": "toyota",
+        "model": "land",
+        "year": 2022,
+        "city": "кемеровская",
+        "mileage": "52067",
+        "price": 8180000
+    },
+    {
+        "factory": "камаз",
+        "model": "65209",
+        "year": 2020,
+        "city": "московская",
+        "mileage": "1",
+        "price": 5290000
+    },
+    {
+        "factory": "faw",
+        "model": "ca",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "45672",
+        "price": 4790000
+    },
+    {
+        "factory": "faw",
+        "model": "ca",
+        "year": 2022,
+        "city": "архангельская",
+        "mileage": "19024",
+        "price": 5090000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "саха",
+        "mileage": "50822",
+        "price": 6540000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "ханты-мансийский",
+        "mileage": "47832",
+        "price": 6560000
+    },
+    {
+        "factory": "great",
+        "model": "wall",
+        "year": 2023,
+        "city": "новосибирская",
+        "mileage": "43767",
+        "price": 2820000
+    },
+    {
+        "factory": "howo",
+        "model": "t5g",
+        "year": 2023,
+        "city": "санкт-петербург",
+        "mileage": "91479",
+        "price": 7290000
+    },
+    {
+        "factory": "faw",
+        "model": "ca",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "162461",
+        "price": 5290000
+    },
+    {
+        "factory": "exeed",
+        "model": "rx",
+        "year": 2023,
+        "city": "москва",
+        "mileage": "31173",
+        "price": 3510000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2018,
+        "city": "башкортостан",
+        "mileage": null,
+        "price": 1720000
+    },
+    {
+        "factory": "камаз",
+        "model": "43118",
+        "year": null,
+        "city": "приморский",
+        "mileage": "23264",
+        "price": 9180000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "32562",
+        "price": 6990000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "57016",
+        "price": 4410000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "35987",
+        "price": 6380000
+    },
+    {
+        "factory": "bmw",
+        "model": "ix",
+        "year": 2023,
+        "city": "москва",
+        "mileage": "13644",
+        "price": 8920000
+    },
+    {
+        "factory": "faw",
+        "model": "ca",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "35408",
+        "price": 4820000
+    },
+    {
+        "factory": "6520",
+        "model": "6x4",
+        "year": 2019,
+        "city": "санкт-петербург",
+        "mileage": "88969",
+        "price": 2980000
+    },
+    {
+        "factory": "sitrak",
+        "model": "c7h",
+        "year": 2023,
+        "city": "забайкальский",
+        "mileage": "45513",
+        "price": 9180000
+    },
+    {
+        "factory": "great",
+        "model": "wall",
+        "year": 2023,
+        "city": "краснодарский",
+        "mileage": "40146",
+        "price": 2450000
+    },
+    {
+        "factory": "hongyan",
+        "model": "908",
+        "year": 2023,
+        "city": "татарстан",
+        "mileage": "36346",
+        "price": 7700000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "самарская",
+        "mileage": "109262",
+        "price": 5620000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "краснодарский",
+        "mileage": "78199",
+        "price": 6360000
+    },
+    {
+        "factory": "howo",
+        "model": "t5g",
+        "year": 2023,
+        "city": "башкортостан",
+        "mileage": "57987",
+        "price": 7390000
+    },
+    {
+        "factory": "faw",
+        "model": "ca",
+        "year": 2023,
+        "city": "саха",
+        "mileage": "35162",
+        "price": 6500000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2023,
+        "city": "ханты-мансийский",
+        "mileage": "72664",
+        "price": 6340000
+    },
+    {
+        "factory": "faw",
+        "model": "6",
+        "year": 2022,
+        "city": "ставропольский",
+        "mileage": "66670",
+        "price": 5030000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "кемеровская",
+        "mileage": "19531",
+        "price": 6880000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "санкт-петербург",
+        "mileage": "39414",
+        "price": 5510000
+    },
+    {
+        "factory": "volvo",
+        "model": "fh",
+        "year": 2016,
+        "city": "московская",
+        "mileage": "1000000",
+        "price": 7790000
+    },
+    {
+        "factory": "hongyan",
+        "model": "908",
+        "year": 2023,
+        "city": "приморский",
+        "mileage": "55076",
+        "price": 7990000
+    },
+    {
+        "factory": "haval",
+        "model": "f7",
+        "year": 2023,
+        "city": "самарская",
+        "mileage": "59001",
+        "price": 2030000
+    },
+    {
+        "factory": "камаз",
+        "model": "6520",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": "28265",
+        "price": 4370000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "нижегородская",
+        "mileage": "45000",
+        "price": 5970000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2023,
+        "city": "ярославская",
+        "mileage": null,
+        "price": 7770000
+    },
+    {
+        "factory": "sany",
+        "model": "syz320",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "41110",
+        "price": 5150000
+    },
+    {
+        "factory": "faw",
+        "model": "ca",
+        "year": 2023,
+        "city": "башкортостан",
+        "mileage": "147405",
+        "price": 5200000
+    },
+    {
+        "factory": "howo",
+        "model": "t5g",
+        "year": 2023,
+        "city": "башкортостан",
+        "mileage": "60642",
+        "price": 7360000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "челябинская",
+        "mileage": "53045",
+        "price": 7480000
+    },
+    {
+        "factory": "exeed",
+        "model": "txl",
+        "year": 2022,
+        "city": "волгоградская",
+        "mileage": "31744",
+        "price": 2860000
+    },
+    {
+        "factory": "sitrak",
+        "model": "c7h",
+        "year": 2023,
+        "city": "красноярский",
+        "mileage": "179105",
+        "price": 7320000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2018,
+        "city": "кемеровская",
+        "mileage": "354658",
+        "price": 3070000
+    },
+    {
+        "factory": "faw",
+        "model": "ca",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "40639",
+        "price": 5110000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": null,
+        "city": "пермский",
+        "mileage": "47105",
+        "price": 6340000
+    },
+    {
+        "factory": "маз",
+        "model": "6516",
+        "year": 2021,
+        "city": "москва",
+        "mileage": "194495",
+        "price": 4080000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "нижегородская",
+        "mileage": null,
+        "price": 5650000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "свердловская",
+        "mileage": "28154",
+        "price": 5690000
+    },
+    {
+        "factory": "faw",
+        "model": "са3310р66k24t4e5",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "25311",
+        "price": 5620000
+    },
+    {
+        "factory": "faw",
+        "model": "ca",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "40639",
+        "price": 5110000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "забайкальский",
+        "mileage": "39410",
+        "price": 5430000
+    },
+    {
+        "factory": "маз",
+        "model": "6430",
+        "year": 2022,
+        "city": "хабаровский",
+        "mileage": "48370",
+        "price": 5300000
+    },
+    {
+        "factory": "lixiang",
+        "model": "l7",
+        "year": 2023,
+        "city": "санкт-петербург",
+        "mileage": "10351",
+        "price": 7310000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2017,
+        "city": "московская",
+        "mileage": "677127",
+        "price": 3180000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2023,
+        "city": "ханты-мансийский",
+        "mileage": "55489",
+        "price": 6310000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "нижегородская",
+        "mileage": null,
+        "price": 5650000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "ульяновская",
+        "mileage": "93875",
+        "price": 5220000
+    },
+    {
+        "factory": "mercedes-benz",
+        "model": "e-класс",
+        "year": 2020,
+        "city": "москва",
+        "mileage": "1",
+        "price": 5470000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "69647",
+        "price": 5510000
+    },
+    {
+        "factory": "mercedes-benz",
+        "model": "e-класс",
+        "year": 2020,
+        "city": "москва",
+        "mileage": "1",
+        "price": 5470000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "ростовская",
+        "mileage": "80165",
+        "price": 7660000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": null,
+        "mileage": "155430",
+        "price": 4270000
+    },
+    {
+        "factory": "evolute",
+        "model": "i-pro",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "6356",
+        "price": 1250000
+    },
+    {
+        "factory": "bmw",
+        "model": "7",
+        "year": 2020,
+        "city": "адыгея",
+        "mileage": "62174",
+        "price": 8760000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "мордовия",
+        "mileage": "122517",
+        "price": 6050000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": null,
+        "city": "ростовская",
+        "mileage": "101886",
+        "price": 4880000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "самарская",
+        "mileage": null,
+        "price": 4390000
+    },
+    {
+        "factory": "камаз",
+        "model": "6520",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": "52946",
+        "price": 4450000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "9497",
+        "price": 8320000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "73528",
+        "price": 5400000
+    },
+    {
+        "factory": "маз",
+        "model": "2018",
+        "year": 2018,
+        "city": "москва",
+        "mileage": "333915",
+        "price": 1840000
+    },
+    {
+        "factory": "камаз",
+        "model": "6580",
+        "year": 2021,
+        "city": "иркутская",
+        "mileage": null,
+        "price": 5650000
+    },
+    {
+        "factory": "bmw",
+        "model": "x1",
+        "year": 2017,
+        "city": "санкт-петербург",
+        "mileage": "128892",
+        "price": 2310000
+    },
+    {
+        "factory": "changan",
+        "model": "cs85",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "10081",
+        "price": 2850000
+    },
+    {
+        "factory": "fawj6",
+        "model": "8x4",
+        "year": 2022,
+        "city": "ростовская",
+        "mileage": "1",
+        "price": 4700000
+    },
+    {
+        "factory": "faw",
+        "model": "ca",
+        "year": 2023,
+        "city": "кемеровская",
+        "mileage": "43497",
+        "price": 5740000
+    },
+    {
+        "factory": "shacman",
+        "model": "x",
+        "year": 2023,
+        "city": "саха",
+        "mileage": "1",
+        "price": 6280000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2023,
+        "city": "московская",
+        "mileage": "13714",
+        "price": 7060000
+    },
+    {
+        "factory": "exeed",
+        "model": "vx",
+        "year": 2022,
+        "city": "воронежская",
+        "mileage": "42158",
+        "price": 2950000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2023,
+        "city": "татарстан",
+        "mileage": "108494",
+        "price": 7060000
+    },
+    {
+        "factory": "gaz",
+        "model": "gazelle",
+        "year": 2021,
+        "city": "татарстан",
+        "mileage": null,
+        "price": 2200000
+    },
+    {
+        "factory": "маз",
+        "model": "5440",
+        "year": 2022,
+        "city": "московская",
+        "mileage": "38797",
+        "price": 4430000
+    },
+    {
+        "factory": "sany",
+        "model": "syz320",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "55001",
+        "price": 6010000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "татарстан",
+        "mileage": "69003",
+        "price": 5200000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "57654",
+        "price": 5590000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2020,
+        "city": "москва",
+        "mileage": null,
+        "price": 2980000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2023,
+        "city": "татарстан",
+        "mileage": "121604",
+        "price": 6970000
+    },
+    {
+        "factory": "changan",
+        "model": "alsvin",
+        "year": 2023,
+        "city": "нижегородская",
+        "mileage": "27658",
+        "price": 1420000
+    },
+    {
+        "factory": "toyota",
+        "model": "land",
+        "year": 2023,
+        "city": "москва",
+        "mileage": "1",
+        "price": 13810000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "9006",
+        "price": 7280000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2023,
+        "city": "московская",
+        "mileage": "20356",
+        "price": 7020000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "ростовская",
+        "mileage": "1",
+        "price": 5200000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "70071",
+        "price": 5630000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2023,
+        "city": "татарстан",
+        "mileage": "114812",
+        "price": 7020000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "мордовия",
+        "mileage": "22151",
+        "price": 5090000
+    },
+    {
+        "factory": "faw",
+        "model": "ca",
+        "year": 2022,
+        "city": "ростовская",
+        "mileage": "48663",
+        "price": 6300000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "ростовская",
+        "mileage": "155927",
+        "price": 4160000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2020,
+        "city": "москва",
+        "mileage": null,
+        "price": 2580000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "ростовская",
+        "mileage": "155927",
+        "price": 4160000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "самарская",
+        "mileage": null,
+        "price": 7580000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2017,
+        "city": "нижегородская",
+        "mileage": null,
+        "price": 2540000
+    },
+    {
+        "factory": "камаз",
+        "model": "54901",
+        "year": 2022,
+        "city": "москва",
+        "mileage": null,
+        "price": 6520000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2021,
+        "city": "московская",
+        "mileage": "136671",
+        "price": 5320000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "московская",
+        "mileage": "48345",
+        "price": 5430000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "ханты-мансийский",
+        "mileage": "85845",
+        "price": 5790000
+    },
+    {
+        "factory": "маз",
+        "model": "6312",
+        "year": 2018,
+        "city": "воронежская",
+        "mileage": "332862",
+        "price": 4630000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "иркутская",
+        "mileage": "1",
+        "price": 6470000
+    },
+    {
+        "factory": "маз",
+        "model": "6501",
+        "year": 2022,
+        "city": "свердловская",
+        "mileage": "86778",
+        "price": 3590000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "ростовская",
+        "mileage": "75230",
+        "price": 4530000
+    },
+    {
+        "factory": "scania",
+        "model": "p",
+        "year": 2017,
+        "city": "нижегородская",
+        "mileage": "1",
+        "price": 4880000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2017,
+        "city": "москва",
+        "mileage": "690206",
+        "price": 3080000
+    },
+    {
+        "factory": "камаз",
+        "model": "54901",
+        "year": 2023,
+        "city": "свердловская",
+        "mileage": "75416",
+        "price": 7010000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "124089",
+        "price": 5090000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "73389",
+        "price": 5610000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "пермский",
+        "mileage": "124089",
+        "price": 5090000
+    },
+    {
+        "factory": "маз.",
+        "model": "6501",
+        "year": 2020,
+        "city": "москва",
+        "mileage": null,
+        "price": 2140000
+    },
+    {
+        "factory": "howo",
+        "model": "zz",
+        "year": 2022,
+        "city": "самарская",
+        "mileage": "70633",
+        "price": 4150000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "нижегородская",
+        "mileage": "16941",
+        "price": 5860000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "башкортостан",
+        "mileage": "52214",
+        "price": 6040000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "чувашская",
+        "mileage": "44826",
+        "price": 6330000
+    },
+    {
+        "factory": "howo",
+        "model": "t5g",
+        "year": 2022,
+        "city": "свердловская",
+        "mileage": "75534",
+        "price": 6850000
+    },
+    {
+        "factory": "mercedes-benz",
+        "model": "a-класс",
+        "year": 2022,
+        "city": "москва",
+        "mileage": "1",
+        "price": 2190000
+    },
+    {
+        "factory": "камаз",
+        "model": "6520",
+        "year": 2018,
+        "city": "башкортостан",
+        "mileage": "43076",
+        "price": 3040000
+    },
+    {
+        "factory": "камаз",
+        "model": "5490",
+        "year": 2017,
+        "city": "московская",
+        "mileage": null,
+        "price": 2720000
+    },
+    {
+        "factory": "ваз",
+        "model": "vesta",
+        "year": 2021,
+        "city": "москва",
+        "mileage": "164911",
+        "price": 660000
+    },
+    {
+        "factory": "камаз",
+        "model": "65206",
+        "year": 2012,
+        "city": "нижегородская",
+        "mileage": "1",
+        "price": 6070000
+    },
+    {
+        "factory": "камаз",
+        "model": "65206",
+        "year": 2012,
+        "city": "нижегородская",
+        "mileage": "1",
+        "price": 6070000
+    },
+    {
+        "factory": "changan",
+        "model": "cs75plus",
+        "year": 2023,
+        "city": "адыгея",
+        "mileage": "11461",
+        "price": 2480000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2022,
+        "city": "забайкальский",
+        "mileage": null,
+        "price": 4630000
+    },
+    {
+        "factory": "toyota",
+        "model": "hilux",
+        "year": 2021,
+        "city": "пермский",
+        "mileage": "149916",
+        "price": 3910000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "ханты-мансийский",
+        "mileage": "108039",
+        "price": 5840000
+    },
+    {
+        "factory": "shacman",
+        "model": "sx",
+        "year": 2022,
+        "city": "санкт-петербург",
+        "mileage": "58390",
+        "price": 6450000
+    },
+    {
+        "factory": "faw",
+        "model": "j6",
+        "year": 2023,
+        "city": "саха",
+        "mileage": "59346",
+        "price": 6760000
+    },
+    {
+        "factory": "камаз",
+        "model": "6520",
+        "year": 2021,
+        "city": "москва",
+        "mileage": null,
+        "price": 4250000
+    }
+]

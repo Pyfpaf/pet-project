@@ -44,7 +44,7 @@ with DAG(
     )
 
     autogpbl = PythonOperator(
-        task_id='predict',
+        task_id='autogpbl',
         python_callable=main_gpbl,
         dag=dag
     )
